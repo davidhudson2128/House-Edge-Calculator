@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">House Edge</string>
+    <string name="first_name_text">First Color:</string>
+    <string name="last_name_text">Second Color:</string>
+    <string name="third_color_text">Enter odds:</string>
+    <string name="enter_button_text">Enter</string>
+    <string name="welcome_to_the_app">Welcome to the app</string>
+    <string name="please_enter_a_name">Please enter a full name!</string>
+    <string name="add_button">ADD</string>
+    <string name="invalid_input_string">Invalid Input. Format: \'-300, 250\'</string>
+</resources>
