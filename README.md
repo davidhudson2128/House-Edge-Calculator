@@ -15,9 +15,9 @@ Examples:
 
 ![house-edge-demo](https://user-images.githubusercontent.com/71290098/207718410-8ced4a11-467d-4ac8-8a63-6f73901aeabd.png)
 
-In the example above, the sportsbook is giving the NY Knicks +150 odds to win, which has a 38.6% chance. The sportsbook is giving the CHI Bulls -175 odds to win, which has a 61.4% chance. The calculated house edge which is built-in to these odds is 3.51%.
+In the example above, the sportsbook is giving the NY Knicks +150 odds to win, and the CHI Bulls -175 odds to win. The implied probability calculated for each outcome is 38.6% for the Knicks, and 61.4% for the Bulls. The house edge which is built-in to these odds is 3.51%.
 
-Assuming the sportsbook's estimation for the odds is accurate, this means that for every $1 bet on this game, on either team, the sportsbook is taking on average a $0.0351 cut.
+Assuming the sportsbook's estimation for the odds is accurate, this means that for every $1 wagered on this game, on either team, the sportsbook is taking on average a $0.0351 cut.
 
 <br><br>
 
@@ -25,4 +25,4 @@ Assuming the sportsbook's estimation for the odds is accurate, this means that f
 
 In this example, the soccer match has three possible outcomes, a draw or either team winning. The sportsbook is giving Brentford +240 odds, a draw +255 odds, and Tottenham +105 odds. The implied probability for each of these outcomes is 27.65%, 26.48%, and 45.86% respectively. The calculated house edge built-in to these odds is 5.98%.
 
-Assuming the sportsbook's estimation for the odds is accurate, this means that for every $1 bet on this game, on either outcome, the sportsbook is taking on average a $0.0598 cut.
+Assuming the sportsbook's estimation for the odds is accurate, this means that for every $1 wagered on this match, on either outcome, the sportsbook is taking on average a $0.0598 cut.
