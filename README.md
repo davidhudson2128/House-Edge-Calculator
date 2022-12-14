@@ -25,3 +25,4 @@ Assuming the sportsbook's estimation for the odds is accurate, this means that f
 In this example, the soccer match has three possible outcomes, a draw or either team winning. The sportsbook is giving Brentford +240 odds, a draw +255 odds, and Tottenham +105 odds. The implied probability for each of these outcomes is 27.65%, 26.48%, and 45.86% respectively. The calculated house edge built-in to these odds is 5.98%.
 
 Assuming the sportsbook's estimation for the odds is accurate, this means that for every $1 bet on this game, on either team, the sportsbook is taking on average a $0.0598 cut.
+<br><br>
