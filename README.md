@@ -14,10 +14,11 @@ https://user-images.githubusercontent.com/71290098/207667790-8c724302-85f4-462f-
 Examples:
 
 ![house-edge-demo](https://user-images.githubusercontent.com/71290098/207718410-8ced4a11-467d-4ac8-8a63-6f73901aeabd.png)
+
 In the example above, 
 
 
 
-![house-edge-demo-2](https://user-images.githubusercontent.com/71290098/207718409-4ea497f5-8d25-4076-9d17-45f971d2ce10.png)
+![house-edge-demo-2](https://user-images.githubusercontent.com/71290098/207719459-a87b46a7-43df-4b4a-ba3a-4d3d84a27ee0.png)
 
  In the example above...
